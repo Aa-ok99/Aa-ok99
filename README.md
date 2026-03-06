@@ -1,11 +1,15 @@
-# 👋 สวัสดีครับ Aa-ok99
+<h1 align="center">👋 Aa-ok99</h1>
+<h3 align="center">Developer from Thailand 🇹🇭</h3>
 
-...
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Learner;Termux+User;Open+Source+Newbie" />
+</p>
 
-## 📊 GitHub Stats
-![Aa-ok99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aa-ok99&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-## ⭐ ความนิยม
-[![Star History Chart](https://api.star-history.com/svg?repos=Aa-ok99/Aa-ok99&type=Date)](https://star-history.com/#Aa-ok99/Aa-ok99&Date)
-
-![GitHub stars](https://img.shields.io/github/stars/Aa-ok99/Aa-ok99?style=social)
+![stats](https://github-readme-stats.vercel.app/api?username=Aa-ok99&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aa-ok99&layout=compact&theme=radical)
