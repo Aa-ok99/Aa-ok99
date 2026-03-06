@@ -1,31 +1,34 @@
-<h1 align="center">👋 Aa-ok99</h1>
-<h3 align="center">Developer from Thailand 🇹🇭</h3>
+<a name="readme-top"></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Learner;Termux+User;Open+Source+Newbie" />
-</p>
+<!-- HEADER สุดปัง สำหรับโปรไฟล์ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👋%20Aa-ok99&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <!-- Badges จัดเต็ม -->
+  <p align="center">
+    <a href="https://github.com/Aa-ok99?tab=followers">
+      <img src="https://img.shields.io/github/followers/Aa-ok99?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+    </a>
+    <a href="https://github.com/Aa-ok99">
+      <img src="https://img.shields.io/github/stars/Aa-ok99?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+    </a>
+    <br/>
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+  <!-- คำอธิบายสวยๆ -->
+  <h3 align="center">⚡ Developer from Thailand 🇹🇭 ⚡</h3>
+  <p align="center">
+    <i>"Coding on Termux, Dreaming in Python"</i>
+  </p>
 
-<!-- GitHub Stats แบบซ่อน stars -->
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Aa-ok99&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
+<!-- ส่วนสถิติ GitHub -->
 ![stats](https://github-readme-stats.vercel.app/api?username=Aa-ok99&show_icons=true&theme=tokyonight&hide=stars)
-
-<!-- แสดง Top Languages แยกต่างหาก -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aa-ok99&layout=compact&theme=tokyonight)
-
-<!-- เพิ่ม Streak Stats (สถิติการ Commit ติดต่อกัน) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aa-ok99&theme=tokyonight)
-
-<!-- Badges สวยๆ สำหรับ stars (รอไว้) -->
-<p align="center">
-  <a href="https://github.com/Aa-ok99">
-    <img src="https://img.shields.io/github/stars/Aa-ok99?style=for-the-badge&logo=github&color=yellow" />
-  </a>
-  <a href="https://github.com/Aa-ok99?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aa-ok99?style=for-the-badge&logo=github&color=blue" />
-  </a>
-</p>
